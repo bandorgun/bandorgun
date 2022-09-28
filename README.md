@@ -1,4 +1,4 @@
-[![MasterHead](https://futureoflife.org/wp-content/uploads/2015/11/artificial_intelligence_benefits_risk-1400x430.jpg?x76795)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/800/1*SRTyzPbxPaTWMCZ5smmr9A.jpeg)](https://rishavchanda.io)
 ### Hi there 👋 I'm Bandoro
 
 ## Data Scientist | Medical Doctor from Indonesia
