@@ -4,9 +4,11 @@
 ## Data Scientist | Medical Doctor from Indonesia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandorgun&label=Profile%20views&color=0e75b6&style=flat" alt="bandorgun" /> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 😄 Pronouns: **He/Him**
-- 🔭 I’m looking for a job opportunity to start my career in **Data Science**
+- 🔭 I’m looking for a job opportunity to expand my career in **Data Science**
 - 🌱 I’m currently learning **Python, Tableu, Docker**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **bandorogunarso@gmail.com**
